@@ -1,30 +1,77 @@
-# Davzn-Leo / README.md
+<br><br><br>
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/RZnYfTI.png" alt="gato preto"/>
+</div>
 
-## Olá 👋
+<div align="center">
+  <samp>
+    <br>
+    Hi there! I'm <b>Davi Leonardo Figueredo</b>
+  </samp>
+</div>
 
-- 👨‍💻 Me chamo **Davi Figueredo**
-- 🎓 Estudante de Ciência da Computação
-- 🧠 Atualmente aprendendo **Python** e **Java**
-- 🧰 Já atuei como **monitor de tecnologia em escolas públicas** com o software Matific
-- 💼 Experiência como **suporte técnico na LBC Sistemas**
-- 💡 Buscando sempre aprender e crescer como desenvolvedor
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9b59b6&width=900&size=22&center=true&pause=1000&speed=80&lines=I'm+from+Brazil;I'm+a+Computer+Science+student;And+I'm+also+a+Technician+in+IT.;Be+Welcome!" alt="Typing SVG"/>
+</div>
 
----
+<br><br>
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <picture>
+    <img height="180" alt="Davi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevGabrielPA&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&include_all_commits=true&custom_title=Gabriel%20Patricio%20Andrade's%20GitHub%20Stats"/>
+  </picture>
+  <picture>
+    <img height="180" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielPA&layout=compact&langs_count=10&theme=tokyonight"/>
+  </picture>
+</div>
 
-## 🚀 Tecnologias que uso/estudo
+<br>
 
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
+<div align="center">
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGabrielPA&theme=tokyonight"/>
+</div>
 
----
+<br><br>
 
-## 🐧 Fun fact
+<!-- TÍTULO DAS TECNOLOGIAS -->
+<div align="center">
+  <samp>
+    <br>
+    <b>  Technologies I Use</b>
+  </samp>
+</div>
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Club_Penguin_logo.svg/2560px-Club_Penguin_logo.svg.png" height="50">
+<br>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+
+<br><br>
+
+<details align="center">
+  <summary><samp><b>Mais sobre mim</b></samp></summary>
+  <br>
+
+  <div align="center">
+    <samp><b>Área:</b> Ciência da Computação — Técnico em TI</samp>
+    <br><br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-4b0082?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:davifiguerdo57@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/davi-figueredo/)
+  [![Instagram](https://img.shields.io/badge/Instagram-4b0082?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vidatechofc/)
+  </div>
+</details>
