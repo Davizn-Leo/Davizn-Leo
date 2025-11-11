@@ -18,17 +18,17 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <picture>
-    <img height="180" alt="Davi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevGabrielPA&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&include_all_commits=true&custom_title=Gabriel%20Patricio%20Andrade's%20GitHub%20Stats"/>
+    <img height="180" alt="Davi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevGabrielPA&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&include_all_commits=true&custom_title=Davi%20leonardo%20Figueredo's%20GitHub%20Stats"/>
   </picture>
   <picture>
-    <img height="180" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielPA&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img height="180" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDavi&layout=compact&langs_count=10&theme=tokyonight"/>
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGabrielPA&theme=tokyonight"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevDaviLF&theme=tokyonight"/>
 </div>
 
 <br><br>
